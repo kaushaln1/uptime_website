@@ -10,7 +10,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /uptime_website
+  cname: https://uptime.kaushalnerkar.tech
   theme: dark
   name: uppTime | Kaushal Nerkar
   favicon: https://kaushalnerkar.tech/favicon.png
