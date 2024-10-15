@@ -4,7 +4,7 @@
     "url": "https://kaushalnerkar.tech",
     "icon": "https://icons.duckduckgo.com/ip3/kaushalnerkar.tech.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "97.50%",
     "uptimeWeek": "99.64%",
@@ -16,6 +16,7 @@
     "timeMonth": 272,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2024-10-15": 0,
       "2024-10-14": 36,
       "2024-10-06": 16,
       "2024-10-03": 23
